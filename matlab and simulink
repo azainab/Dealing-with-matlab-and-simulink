@@ -1,0 +1,3 @@
+## add path to call codes in different folder in matlab
+
+addpath ('\\toaster\homes\a\z\azain\nt\MATLAB\Transient Stability\pstv3')
