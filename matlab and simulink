@@ -1,3 +1,7 @@
 ## add path to call codes in different folder in matlab
 
 addpath ('\\toaster\homes\a\z\azain\nt\MATLAB\Transient Stability\pstv3')
+
+## select a particular column
+
+v_needed = bus_v_img(:,21)
